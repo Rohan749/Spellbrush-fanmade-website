@@ -34,7 +34,7 @@ export function Model(props) {
     })
 
     
-    tl.to(scene.position, {x: 600}, "key1")
+    tl.to(scene.position, {x: 400}, "key1")
       .to(scene.rotation, {y: 4}, "key1")
       .to(scene.position, {z: -2900}, "")
       .to(scene.rotation, {y: 4.5})
