@@ -26,7 +26,7 @@ const AboutUs = () => {
             <div className='h-[90vh] w-[100%] flex justify-between items-center'>
                 <div className='xl:w-[45%] fade-in-section text-[#403c53]'>
                     <div className='header xl:pb-0 pb-6'>About us</div>
-                    <div className='title text-[#a3a8ac]'>At Spellbrush, we fuse cutting-edge AI with
+                    <div className='title text-[#403c53] '>At Spellbrush, we fuse cutting-edge AI with
                         anime artistry to revolutionize gaming. As
                         creators of niji・journey, we empower
                         artists to craft masterpieces, blending

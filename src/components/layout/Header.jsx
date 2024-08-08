@@ -32,7 +32,7 @@ const Header = () => {
             <div className='block xl:hidden z-20'>
                 <Hamburger onToggle={togglePosition}/>
             </div>
-        <div className='pt-[5rem] p-10 navDrawer absolute top-[-1rem] left-[80rem] xl:hidden w-[100vw] h-[100vh] z-10 backdrop-blur-3xl'>
+        <div className='pt-[5rem] p-10 navDrawer absolute top-[-2rem] left-[80rem] xl:hidden w-[100vw] h-[105vh] z-10 backdrop-blur-3xl'>
         <ul className=' title  font-bold gap-10 w-[fit-content]'>
                     <li><a href='#'>Home</a></li>
                     <li><a href='#'>Games</a></li>
