@@ -1,0 +1,11 @@
+Model Information:
+* title:	Substance Miku
+* source:	https://sketchfab.com/3d-models/substance-miku-c82070799db14f2088691e6cd0195001
+* author:	keiichiisozaki (https://sketchfab.com/keiichiisozaki)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Substance Miku" (https://sketchfab.com/3d-models/substance-miku-c82070799db14f2088691e6cd0195001) by keiichiisozaki (https://sketchfab.com/keiichiisozaki) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
