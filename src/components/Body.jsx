@@ -19,7 +19,7 @@ const Body = () => {
     return (
         <div className='overflow-x-hidden'>
             <BgContainer />
-            <ThreeDModel />
+            {/* <ThreeDModel /> */}
             <div className='z-50 relative'>
             <Header />
             </div>
